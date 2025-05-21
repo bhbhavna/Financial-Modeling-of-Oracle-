@@ -41,10 +41,6 @@ This model provides an in-depth financial analysis of OFSS, incorporating histor
 *   **Forecast Drivers:** Projections are based on historical trends, industry outlook, and specific assumptions detailed within the forecast sheets of the model.
 *   **Valuation Inputs:** Critical assumptions for WACC (Risk-Free Rate, Equity Risk Premium, Beta) and DCF (Terminal Growth Rate) are clearly outlined in their respective sections.
 
-## How to Use This Model
-
-
-
 ## Feedback Welcome!
 
 I’m constantly working to improve my financial modeling skills, and I’d love to hear your feedback or suggestions. Your insights would be incredibly helpful in refining my approach and deepening my understanding. Please feel free to open an issue or reach out.
